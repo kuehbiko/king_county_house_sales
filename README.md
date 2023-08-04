@@ -5,8 +5,6 @@ View the full dashboard on my [Tableau Public](https://public.tableau.com/app/pr
 ![image](https://github.com/kuehbiko/Data-Visualisation-House-Sales/assets/88494428/137f281b-140a-406f-9096-ac8de05c54e1)
 
 
-## The Dataset
 The King County House Sales dataset is taken from [Kaggle](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction).
-This data has already been cleaned, so we will jump straight into creating the Tableau dashboard.
 
 
