@@ -18,7 +18,7 @@ View and interact with the full dashboard on [Tableau Public](https://public.tab
 The King County House Sales dataset is taken from [Kaggle](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction). The tags on this dataset mark it as a cleaned dataset. However, let's do a cursory check to fully ensure that we are working with data that is free of null values and errors.
 
 ## The Dashboard
-I will briefly describe the process of creating this dashboard before describing the key takeaways from this project.
+I will briefly describe the process of creating this dashboard before convering the key takeaways from this project.
 
 ### Sheet 1: Line Chart of Daily Average House Prices
 
