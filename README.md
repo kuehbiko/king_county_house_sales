@@ -15,7 +15,7 @@ View and interact with the full dashboard on [Tableau Public](https://public.tab
 ![KingCountyHouseSales](https://github.com/kuehbiko/KingCountyHouseSales-DataVisualiation/assets/88494428/5b84baba-989b-4d75-9d95-f0fa77e98d98)
 
 ## The Dataset
-The King County House Sales dataset is taken from [Kaggle](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction). The tags on this dataset mark it as a cleaned dataset. However, let's do a cursory check to fully ensure that we are working with data that is free of null values and errors.
+The King County House Sales dataset is taken from [Kaggle](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction).
 
 ## The Dashboard
 I will briefly describe the process of creating this dashboard before convering the key takeaways from this project.
