@@ -30,4 +30,7 @@ I will briefly describe the process of creating this dashboard before convering 
 
 ### Sheet 5 & 6: Histogram Distribution of Bedrooms and Bathrooms
 
+### Key Takeaways
+In this project, I learnt how to create interactive filters and to connect the filters to all sheets on the dashboard, and how to connect it to only selected sheets. 
 
+Being able to connect filters to some sheets on the dashboard but not others is useful because allows the audience to drill down on certain aspects of the visualisation while also maintaining a high level view of other aspects. For example, the Month/Year filter on the dashboard shows the audience the trend of average house prices over a selected month, while usage of the calendar widget can show them a more in-depth details of the houses sold on that particular day.
