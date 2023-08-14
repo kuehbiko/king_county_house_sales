@@ -17,19 +17,6 @@ View and interact with the full dashboard on [Tableau Public](https://public.tab
 ## The Dataset
 The King County House Sales dataset is taken from [Kaggle](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction).
 
-## The Dashboard
-I will briefly describe the process of creating this dashboard before convering the key takeaways from this project.
-
-### Sheet 1: Line Chart of Daily Average House Prices
-
-### Sheet 2: Geospatial Map of Average House Prices By Zipcode
-
-### Sheet 3: Histogram Distribution of House Prices
-
-### Sheet 4: Heatmap of House View vs House Condition
-
-### Sheet 5 & 6: Histogram Distribution of Bedrooms and Bathrooms
-
 ### Key Takeaways
 In this project, I learnt how to create interactive filters and to connect the filters to all sheets on the dashboard, and how to connect it to only selected sheets. 
 
