@@ -14,9 +14,6 @@ Additionally, sliding filters and a calendar widget allow viewers to drill down 
 View and interact with the full dashboard on [Tableau Public](https://public.tableau.com/app/profile/kuebiko/viz/KingCountyHouseSales_16911213453610/KingCountyHouseSales)
 ![KingCountyHouseSales](https://github.com/kuehbiko/KingCountyHouseSales-DataVisualiation/assets/88494428/5b84baba-989b-4d75-9d95-f0fa77e98d98)
 
-### The Dataset
-The King County House Sales dataset is taken from [Kaggle](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction).
-
 ### Key Takeaways
 In this project, I learnt how to create interactive filters and to connect the filters to all sheets on the dashboard, and how to connect it to only selected sheets. 
 
